@@ -1,6 +1,8 @@
 # fictional-carnival
 
-Demo repo for pull requests
+Demo repo for pull requests.
+
+Instructions on managing branches and pull requests.
 
 ## Step One
 
@@ -38,4 +40,5 @@ Create a `Pull Request` which will ask the owner of the repo to merge the code b
 
 ## Step Six
 
-The Repo owner will need to review the pull request, add comments, approve and merge the updated feature branch into the main branch.
+The Repo owner will need to review the pull request, add comments, approve and merge the updated feature branch into the main branch. You can read more about
+[managing pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request).
